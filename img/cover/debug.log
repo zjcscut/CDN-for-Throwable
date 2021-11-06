@@ -10,3 +10,26 @@
 [1024/101614.432:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
 [1024/101614.493:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
 [1024/101614.541:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1024/152133.681:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1024/153757.082:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1024/160824.608:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1024/181127.918:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1024/181128.087:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1024/220945.338:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(75,9-50): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1024/220945.347:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(73,23-41): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1024/220946.973:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: utility
+[1024/220947.139:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(70,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(82,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1024/221319.884:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(75,10-46): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(98,10-46): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1024/221352.560:WARNING:spdy_session.cc(3029)] Received RST for invalid stream47
+[1025/012945.181:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1025/231136.269:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
